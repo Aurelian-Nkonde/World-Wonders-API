@@ -1,0 +1,8 @@
+export enum Continent {
+  AFRICA = 'AFRICA',
+  EUROPE = 'EUROPE',
+  ASIA = 'ASIA',
+  NORTH_AMERICA = 'NORTH_AMERICA',
+  SOUTH_AMERICA = 'SOUTH_AMERICA',
+  AUSTRALIA = 'AUSTRALIA',
+}
